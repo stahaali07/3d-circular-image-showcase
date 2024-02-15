@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/stahaali07">
-    <img src="/public/assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="/public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">3D Circular Image Showcase</h3>
